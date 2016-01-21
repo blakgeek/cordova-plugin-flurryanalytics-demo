@@ -9,5 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <plugin name="cordova-plugin-flurryanalytics" spec="../cordova-plugin-flurryanalytics" />
+    <plugin name="cordova-plugin-flurryanalytics" spec="~1.1.0" />
 </widget>
